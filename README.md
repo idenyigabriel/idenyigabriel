@@ -1,16 +1,21 @@
-### Hi there 👋
+![Image of a landscape](https://newevolutiondesigns.com/images/freebies/4k-wallpaper-3.jpg)
 
-<!--
-**alexcharlz/alexcharlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello!
 
-Here are some ideas to get you started:
+**I am Idenyi Gabriel, a fullstack web developer and a graduate ofComputer Science and ENginnering from Nigeria.**
+**I'm currrently an intern Web Applications Developer at UOBIS.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm a tech savvy, a quick thinker, aproblem solver, idealist, original thinker and an introvert.**
+
+**Previously experienced in Embedded system and Design/Programming, I have seen both sides of tech world, and am well acquainted with the problems that come with it.**
+
+**At the core, i am a Python and Django Developer, but also experienced in the user of Javascript, Jquery, HTML, CSS and a lot more.**
+
+**I simply want to put my skills into good use, in solving problems i can and improve to solve those i cant.**
+
+**What i may lack in knowledge, i make up in my willingness to learn, dedication to my work and passion to keep improving.**
+**Looking forward to beign involved in your next big thing! Interested in working together? Lets have a talk.**
+
+- I’m currently working on a coll project. It's a secret :wink:
+- I’m currently learning React to provide UX experinence to user!
+- 📫 How to reach me: *idenyigabriel@gmail.com*
