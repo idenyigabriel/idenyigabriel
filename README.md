@@ -16,6 +16,6 @@
 **What i may lack in knowledge, i make up in my willingness to learn, dedication to my work and passion to keep improving.**
 **Looking forward to beign involved in your next big thing! Interested in working together? Lets have a talk.**
 
-- I’m currently working on a coll project. It's a secret :wink:
+- I’m currently working on a cool project. It's a secret :wink:
 - I’m currently learning React to provide UX experinence to user!
 - 📫 How to reach me: *idenyigabriel@gmail.com*
