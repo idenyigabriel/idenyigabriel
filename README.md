@@ -2,8 +2,8 @@
 
 # Hello!
 
-**I am Idenyi Gabriel, a fullstack web developer and a graduate ofComputer Science and ENginnering from Nigeria.**
-**I'm currrently an intern Web Applications Developer at UOBIS.**
+**I am Idenyi Gabriel, a fullstack web developer and a graduate of Computer Science and Enginnering from Nigeria.**
+**I'm currrently an intern Web Application Developer at UOBIS.**
 
 **I'm a tech savvy, a quick thinker, a problem solver, idealist, original thinker and an introvert.**
 
