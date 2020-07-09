@@ -5,7 +5,7 @@
 **I am Idenyi Gabriel, a fullstack web developer and a graduate ofComputer Science and ENginnering from Nigeria.**
 **I'm currrently an intern Web Applications Developer at UOBIS.**
 
-**I'm a tech savvy, a quick thinker, aproblem solver, idealist, original thinker and an introvert.**
+**I'm a tech savvy, a quick thinker, a problem solver, idealist, original thinker and an introvert.**
 
 **Previously experienced in Embedded system and Design/Programming, I have seen both sides of tech world, and am well acquainted with the problems that come with it.**
 
