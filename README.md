@@ -17,5 +17,4 @@
 **Looking forward to beign involved in your next big thing! Interested in working together? Lets have a talk.**
 
 - I’m currently working on a cool project. It's a secret :wink:
-- I’m currently learning React to provide UX experinence to user!
 - 📫 How to reach me: *idenyigabriel@gmail.com*
