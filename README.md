@@ -6,7 +6,7 @@
 
 **I'm a tech savvy, a quick thinker, a problem solver, idealist, original thinker and an introvert.**
 
-**At the core, i am a Python and Django Developer, but also experienced in the user of Javascript, Jquery, HTML, CSS and a lot more.**
+**At the core, i am a Python Developer, but also experienced in the use of Javascript, Jquery, HTML, CSS and a lot more.**
 
 **What i may lack in knowledge, i make up in my willingness to learn, dedication to my work and passion to keep improving.**
 
