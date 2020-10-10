@@ -1,4 +1,4 @@
-![Image of a landscape](https://newevolutiondesigns.com/images/freebies/4k-wallpaper-3.jpg)
+![Image of a landscape](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 # Hello!
 
@@ -7,13 +7,11 @@
 
 **I'm a tech savvy, a quick thinker, a problem solver, idealist, original thinker and an introvert.**
 
-**Previously experienced in Embedded system and Design/Programming, I have seen both sides of tech world, and am well acquainted with the problems that come with it.**
-
 **At the core, i am a Python and Django Developer, but also experienced in the user of Javascript, Jquery, HTML, CSS and a lot more.**
 
 **What i may lack in knowledge, i make up in my willingness to learn, dedication to my work and passion to keep improving.**
 
-**I simply want to put my skills into good use, in solving problems i can and improve to solve those i cant.**
+**I simply love to put my skills into good use, in solving problems i can and improve to solve those i cant.**
 
 **Looking forward to beign involved in your next big thing! Interested in working together? Lets have a talk.**
 
