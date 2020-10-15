@@ -2,11 +2,11 @@
 
 # Hello!
 
-**I am Idenyi Gabriel, a fullstack web developer and a graduate of Computer Science and Enginnering from Nigeria.**
+**I am Idenyi Gabriel, a fullstack web developer and a graduate of Computer Science and Engineering from Nigeria.**
 
 **I'm a tech savvy, a quick thinker, a problem solver, idealist, original thinker and an introvert.**
 
-**At the core, i am a Python Developer, but also experienced in the use of Javascript, Jquery, HTML, CSS and a lot more.**
+**At the core, i am a Python Developer, but also experienced in the use of Javascript, React, Jquery, HTML, CSS and a lot more.**
 
 **What i may lack in knowledge, i make up in my willingness to learn, dedication to my work and passion to keep improving.**
 
