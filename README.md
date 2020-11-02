@@ -16,3 +16,4 @@
 
 - I’m currently working on a cool project. It's a secret :wink:
 - 📫 How to reach me: *idenyigabriel@gmail.com*
+- Open to a full-time role or a cool project!
