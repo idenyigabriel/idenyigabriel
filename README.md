@@ -4,7 +4,7 @@
 
 **I am Gabriel, a full-stack web developer and a graduate in Computer Engineering.**
 
-**I am skilled in solving problems, Python, Javascript, Django, Restful API, React, Nextjs, Ajax, Git, Linux, HTML, CSS. **
+**I am skilled in solving problems, Python, Javascript, Django, Restful API, React, Nextjs, Ajax, Git, Linux, HTML, CSS.**
 
 **I simply love to put my skills to good use, in solving problems I can and improve to solve those I cant.**
 
