@@ -2,18 +2,16 @@
 
 # Hello!
 
-**I am Idenyi Gabriel, a fullstack web developer and a graduate of Computer Science and Engineering from Nigeria.**
+**I am Gabriel, a full-stack web developer and a graduate in Computer Engineering.**
 
-**I'm a tech savvy, a quick thinker, a problem solver, idealist, original thinker and an introvert.**
+**I am skilled in solving problems, Python, Javascript, Django, Restful API, React, Nextjs, Ajax, Git, Linux, HTML, CSS. **
 
-**At the core, i am a Python Developer, but also experienced in the use of Javascript, React, Jquery, HTML, CSS and a lot more.**
+**I simply love to put my skills to good use, in solving problems I can and improve to solve those I cant.**
 
-**What i may lack in knowledge, i make up in my willingness to learn, dedication to my work and passion to keep improving.**
-
-**I simply love to put my skills into good use, in solving problems i can and improve to solve those i cant.**
-
-**Looking forward to beign involved in your next big thing! Interested in working together? Lets have a talk.**
+**Looking forward to being involved in your next big thing! Interested in working together? Let's talk.**
 
 - I’m currently working on a cool project. It's a secret :wink:
 - 📫 How to reach me: *idenyigabriel@gmail.com*
 - Open to a full-time role or a cool project!
+
+ ![Alexcharlz's github stats](https://github-readme-stats.vercel.app/api?username=alexcharlz&show_icons=true&hide_border=true)
