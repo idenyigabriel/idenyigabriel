@@ -12,6 +12,6 @@
 
 - I’m currently working on a cool project. It's a secret :wink:
 - 📫 How to reach me: *idenyigabriel@gmail.com*
-- Open to a full-time role or a cool project!
+- Open to a cool project or whenever you need me &#128523;
 
  ![Alexcharlz's github stats](https://github-readme-stats.vercel.app/api?username=alexcharlz&show_icons=true&hide_border=true)
