@@ -1,7 +1,9 @@
 # Hi there, I am Gabriel Idenyi 👋
 
+<!--
 I'm a passionate software engineer with expertise in **Python**, **JavaScript**, and other cutting-edge technologies. I love solving complex problems and building efficient, scalable applications. Whether it's backend development, full-stack projects, or scripting, I enjoy turning ideas into functional, user-friendly solutions.
-
+-->
+Experienced Fullstack Software Engineer with 5+ years of expertise in **Python**, **Javascript**, and **RESTful APIs**. Skilled in leading complex migrations, such as rebuilding LMS platforms, integrating third-party systems, and optimizing payment processes. Proven ability to design and deliver scalable web applications across edtech, fintech, etc. Strong team mentor, with a track record of driving productivity and improving development processes. Toptal Network member (top 3%).
 
 ## 🛠️ Technologies & Tools
 
